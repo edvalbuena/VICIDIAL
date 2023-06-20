@@ -1,0 +1,32 @@
+**VICIDIAL Documentation** 
+Added by Edwin Valbuena. Using ChatGPT :P 
+
+1. Introduction to VICIDIAL:
+VICIDIAL is an open-source call center suite that provides robust and feature-rich functionality for inbound and outbound call center operations. It is designed to handle high call volumes efficiently and offers a wide range of tools and capabilities to enhance call center productivity. This documentation aims to provide an overview of VICIDIAL and highlight its key features and technical stack.
+
+2. Key Features of VICIDIAL:
+- Inbound and Outbound Call Handling: VICIDIAL supports both inbound and outbound call campaigns, allowing call centers to efficiently manage customer interactions.
+- Automatic Call Distribution (ACD): The ACD feature ensures calls are routed to the most appropriate agent based on predefined criteria such as agent skills, call priority, and customer preferences.
+- Predictive Dialing: VICIDIAL utilizes predictive dialing algorithms to maximize agent efficiency by automatically dialing multiple numbers simultaneously and connecting answered calls to available agents.
+- Interactive Voice Response (IVR): The IVR feature enables automated call routing and provides callers with self-service options, such as selecting menu options or entering account details.
+- Call Recording and Monitoring: VICIDIAL allows call center supervisors to record and monitor calls for quality assurance and training purposes.
+- Real-time Reporting and Analytics: The system provides comprehensive reporting and analytics capabilities, allowing managers to monitor key performance metrics and make data-driven decisions.
+
+3. Tech Stacks used by VICIDIAL:
+VICIDIAL is built using a combination of various open-source technologies, ensuring stability, scalability, and flexibility. The key tech stacks used by VICIDIAL are as follows:
+
+- Asterisk: VICIDIAL utilizes Asterisk, an open-source telephony platform, as its core engine. Asterisk handles call routing, IVR, call recording, and other telephony-related functionalities.
+- Linux: VICIDIAL runs on the Linux operating system, leveraging its stability, security, and compatibility with open-source software.
+- Apache: The Apache web server is used to host VICIDIAL's web-based interfaces, including the agent and administrative interfaces.
+- PHP: VICIDIAL employs PHP (Hypertext Preprocessor) as the primary programming language for developing its web-based interfaces. PHP integrates seamlessly with Apache and provides flexibility for customization.
+- MySQL: VICIDIAL uses MySQL, an open-source relational database management system, for storing and managing call center data, including customer information, call records, and campaign details.
+- JavaScript and AJAX: VICIDIAL leverages JavaScript and AJAX (Asynchronous JavaScript and XML) to enhance the user experience and provide real-time updates within the web interfaces.
+- HTML and CSS: The VICIDIAL interfaces are built using HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets), ensuring a user-friendly and visually appealing experience.
+
+4. Installation and Configuration:
+For detailed instructions on installing and configuring VICIDIAL, please refer to the official VICIDIAL documentation and user guides available on the project's website. The documentation provides step-by-step instructions, best practices, and troubleshooting tips to ensure a successful deployment of VICIDIAL in your call center environment.
+
+5. Community and Support:
+VICIDIAL has a vibrant and active community of users and developers who contribute to its ongoing development and offer support through forums, mailing lists, and online resources. You can join the VICIDIAL community to collaborate, seek assistance, and stay updated with the latest features and enhancements.
+
+Note: This documentation provides a general overview of VICIDIAL and its tech stacks. For in-depth technical details, it is recommended to refer to the official documentation and explore the project's source code and repositories.
